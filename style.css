@@ -29,16 +29,16 @@ nav a {
     color: black;
 }
 
-.niftyPenguin {
+.nifty-penguin {
     font-weight: 500;
 }
 
-.blackHeart {
+.black-heart {
     width: 20px;
     margin-right: 1rem;
 }
 
-.npmSearch {
+.npm-search {
     display: flex;
     border-bottom: 1px solid lightgray;
 }
@@ -171,29 +171,29 @@ nav a {
     width:50%;
 }
 
-#displayFeature {
+#display-feature {
     width:90%;
     margin: auto;
 }
 
-#displayFeature{
+#display-feature{
     display: flex;
 }
 
-#displayFeature > div{
+#display-feature > div{
     justify-content: left;
     align-items: center;
 }
 
-#displayFeature h4 {
+#display-feature h4 {
     color:#ED1C24;
 }
 
-#displayFeature img {
+#display-feature img {
     width: 30px;
 }
 
-#displayFeature p {
+#display-feature p {
     width: 70%;
 }
 
